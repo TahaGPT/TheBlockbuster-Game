@@ -46,11 +46,7 @@ cd TheBlockbuster-Game
 
 ### 3️⃣ Build & Run
 ```bash
-git clone https://github.com/TahaGPT/TheBlockbuster-Game.git
-cd TheBlockbuster-Game
-```
-
-```bash
 g++ main.cpp -o blockbuster -lsfml-graphics -lsfml-window -lsfml-system
 ./blockbuster
 ```
+
